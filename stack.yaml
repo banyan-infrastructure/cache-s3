@@ -9,3 +9,5 @@ extra-deps:
 - git-0.3.0@sha256:dc070840ab24792c9664b9e3e69c9d55d30fc36fee41049c548bb0e8ec83c919,3448
 - lz4-conduit-0.3@sha256:1e962c6038ba2568a3d6b9a53cfdcd64ed326876012c44f1e65ed34e2aa9677d,1657
 - http-client-0.5.14@sha256:4880b27d6741e331454a1d4c887d96ce3d7d625322c8433983a4b1cd08538577,5348
+- git: git@github.com:banyan-infrastructure/tar-conduit.git
+  commit: 16420934d31872a73637b8608adac6b86cc5c7f5

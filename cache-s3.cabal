@@ -50,7 +50,7 @@ library
                      , process
                      , resourcet
                      , safe-exceptions
-                     , tar-conduit >= 0.2.0
+                     , tar-conduit
                      , text
                      , time
                      , transformers >= 0.5.2.0
